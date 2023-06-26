@@ -1,0 +1,25 @@
+
+
+.green{
+    background-color: rgb(157, 255, 0);
+    width: 100px;
+    height:100px;
+    position: relative;
+}
+
+
+.red{
+    background-color: red;
+    width: 100px;
+    height:100px;
+    position: relative;
+}
+
+
+
+.blue{
+    background-color: rgb(38, 0, 255);
+    width: 100px;
+    height:100px;
+    position: relative;
+}

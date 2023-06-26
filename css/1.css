@@ -1,0 +1,25 @@
+hr{
+    border-color:grey;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+
+
+}
+body{
+    background-color: rgb(231, 226, 241);
+}
+h3{
+    color: palevioletred;}
+    h1{
+        color:aqua;
+
+    }
+    .style{
+        text-align:center;
+        margin:0;
+    }
+    .suma{
+        background-color: rgb(43, 174, 226);
+    }
